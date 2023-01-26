@@ -6,11 +6,16 @@
 - Language : R
 
 ## Dataset
-- apt.csv : 아파트 매매 실거래가 [출처 : 국토교통부 실거래가 공개 시스템]
-- day_care.csv : 서울시 어린이집 정보 [출처 : 서울 열린데이터 광장]
-- park1.csv : 서울시 공원(1인당 공원면적)통계 [출처 : 공공데이터 포털]
-- apartment_price.csv : 데이터들을 전처리 후 저장한 최종 테이블  
-
+- delivery_per_age.xlsx : 연령별 배달 이용
+- delivery_per_household.xlsx : 가구수별 배달 이용
+- floating_population.xlsx : 유동 인구 [출처 : SK DATA HUB]
+- floating_subway_correlation.xlsx : 
+- sangdo_station_floating.xlsx : 
+- seoul_subway_address.xlsx : 서울교통공사 역사 주소 현황_2018 [출처 : 서울 교통 공사]
+- seoul_subway_station_population.csv : 서울시 지하철 호선별 역별 시간대별 승하차 인원 정보 [출처 : 서울 교통 공사]
+- seoul_traditional_market.csv : 서울시 전통시장 현황
+- subway_station_supply_demand.xlsx : 
+- total_delivery_app_using.xlsx : 전체 배달앱 이용률
 
 ## Coding
 1. data_cleansing.ipynb
